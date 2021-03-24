@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "example",
+  "devDependencies": {
+    "bs-platform": "8.4.2",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "bsb -make-world",
+    "clean": "bsb -clean-world",
+    "start": "bsb -make-world -w"
+  }
+}
