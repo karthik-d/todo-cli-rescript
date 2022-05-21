@@ -1,8 +1,9 @@
 ## Todo App
 
 A command-line todo application built with ReScript
+Native application with typed JS. 
 
-### Try running tests.
+### Run the following unit tests, and refer to the description below for details on its features. 
 
 Now run `npm test` and you will see all the tests failing. As you fill in each functionality, you can re-run the tests to see them passing one by one.
 
