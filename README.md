@@ -1,6 +1,6 @@
 ## Todo App
 
-A command-line todo application built with ReScript
+A command-line todo application built with ReScript (Ocaml, JSooC). 
 Native application with typed JS. 
 
 ### Run the following unit tests, and refer to the description below for details on its features. 
