@@ -1,11 +1,7 @@
-## Todo App
+## Todo Task Manager Application
 
-A command-line todo application built with ReScript (Ocaml, JSooC). 
-Native application with typed JS. 
-
-### Run the following unit tests, and refer to the description below for details on its features. 
-
-Now run `npm test` and you will see all the tests failing. As you fill in each functionality, you can re-run the tests to see them passing one by one.
+A command line todo task manager application built with ReScript (Ocaml, JSooC). Native application with typed functional JavaScript.    
+**Run the following unit tests, and refer to the description below for details on its features.** 
 
 ## Usage
 
