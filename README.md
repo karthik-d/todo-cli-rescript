@@ -2,7 +2,7 @@
 
 An interactive command-line based todo management application built with typed functional programming using ReScript (Ocaml + JSooC). Starter code for typed JavaScript projects. 
    
-> **Note** Run the following unit tests, and refer to the description below for details on its features.
+> **Note**: Run the following unit tests, and refer to the description below for details on its features.
 
 ## Usage
 
