@@ -8,7 +8,7 @@ An interactive command-line based todo management application built with typed f
 
 ### 1. Help
 
-Executing the command without any arguments, or with a single argument `help` prints the CLI usage.
+Executing the command without any arguments, or with a single argument `help` prints the CLI usage
 
 ```
 $ ./todo help
