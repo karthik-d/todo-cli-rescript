@@ -1,14 +1,14 @@
 ## Todo Task Manager Application
 
-An interactive command-line based todo management application built with typed functional programming using ReScript (Ocaml + JSooC). Starter code for typed JavaScript projects. 
+An interactive command-line based todo management application built using typed functional programming with ReScript (Ocaml + JSooC).
    
-> **Note**: Run the following unit tests, and refer to the description below for details on its features.
+> **Note**: Run the following unit tests, and refer to the description below for an elaboration of features.
 
 ## Usage
 
 ### 1. Help
 
-Executing the command without any arguments, or with a single argument `help` prints the CLI usage
+Executing the command without any arguments, or with a single argument `help` prints the CLI usage.
 
 ```
 $ ./todo help
